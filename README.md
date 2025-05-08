@@ -1,5 +1,5 @@
 # 4.Execution_of_NetworkCommands
-## NAME : PRIYANKA P
+## NAME : PRIYANKA P 
 
 ## REGISTER NUMBER : 212224230212
 ## AIM :Use of Network commands in Real Time environment
@@ -65,7 +65,8 @@ result, unans = traceroute(target,maxttl=32)
 print(result,unans)
 ```
 ## Output
-![alt text](image.png)
-![alt text](image-2.png)
+![Screenshot 2025-05-08 112413](https://github.com/user-attachments/assets/ab2f4e26-06c5-4704-96de-18fcd8a51f8f)
+![Screenshot 2025-05-08 112455](https://github.com/user-attachments/assets/2c6190e6-aaac-422a-b5aa-be608993a9cc)
+
 ## Result
 Thus Execution of Network commands Performed 
